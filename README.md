@@ -1,5 +1,5 @@
 # Friday Mood
-![logo](https://media1.tenor.com/images/b67173b98dd2925991a8d547238404f1/tenor.gif =200x200)
+![logo](https://media1.tenor.com/images/b67173b98dd2925991a8d547238404f1/tenor.gif)
 
 
 ## About
