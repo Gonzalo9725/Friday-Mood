@@ -1,6 +1,4 @@
 # Friday Mood
-![logo](./src/assets/img/dancing-dog.gif)
-
 
 ## About
 
