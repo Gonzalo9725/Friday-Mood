@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Da+2:wght@500&display=swap');
+
+body {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #11e8cf;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.container{
+  border-radius: 50px;
+  background: #11e8cf;
+  box-shadow:  22px 22px 44px #0ec5b0, 
+              -22px -22px 44px #14ffee;
+  height: 80%;
+}
+
+#root{
+  height:100vh;
+}
